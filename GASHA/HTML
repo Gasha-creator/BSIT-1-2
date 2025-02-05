@@ -1,0 +1,64 @@
+portfolio/
+│── index.html
+│── about.html
+│── projects.html
+│── contact.html
+│── images/ (for images)
+│── css/ (later for styling)
+│── js/ (later for JavaScript)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to my personal portfolio website">
+    <title>Home | My Portfolio</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Hello, I'm [Your Name]</h2>
+            <p>Aspiring Web Developer passionate about creating amazing web applications.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 [Your Name]. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+
+<h2>About Me</h2>
+<p>I'm a first-year BSIT student at Uganda Christian University, learning web development.</p>
+
+<section>
+    <h3>Skills</h3>
+    <ul>
+        <li>HTML5</li>
+        <li>CSS (Basic)</li>
+        <li>JavaScript (Coming Soon!)</li>
+    </ul>
+</section>
+
+
+<h2>My Projects</h2>
+<ul>
+    <li>Project 1: Simple Calculator</li>
+    <li>Project 2: Basic To-Do List</li>
+</ul>
